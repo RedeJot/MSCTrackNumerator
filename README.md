@@ -1,6 +1,6 @@
 # MSCTrackNumerator
 
-##Rename a lot of songs in just one click to My Summer Car
+## Rename a lot of songs in just one click to My Summer Car
 
 ![image](https://github.com/RedeJot/MSCTrackNumerator/assets/74658780/bedb967a-b4ed-4577-a61f-01cdbf12da8d)
 
